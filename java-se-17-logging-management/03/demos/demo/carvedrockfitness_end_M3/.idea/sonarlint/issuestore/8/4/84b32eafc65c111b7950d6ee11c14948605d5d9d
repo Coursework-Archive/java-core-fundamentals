@@ -1,0 +1,34 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Í±É²úÿÿÿÿ
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(è¦å‹üÿÿÿÿ
+Z	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(†Ú¸H
+Z	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(¼™ï
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(È”ò¬üÿÿÿÿ
+`	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(™âÆşÿÿÿÿ
+`	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(Í¼™…úÿÿÿÿ
+m
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(Á¿“¾ùÿÿÿÿ8Ší²°€0
+a
+java:S3457)"KFormat specifiers or lambda should be used instead of string concatenation.(æ¶”
+a
+java:S34572"KFormat specifiers or lambda should be used instead of string concatenation.(Ãü¿…
+a
+java:S3457;"KFormat specifiers or lambda should be used instead of string concatenation.(´´ì
+a
+java:S3457C"KFormat specifiers or lambda should be used instead of string concatenation.(å«Ö•
+a
+java:S3457J"KFormat specifiers or lambda should be used instead of string concatenation.( Ãµ’
+S
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(±œŠH
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(Á¿“¾ùÿÿÿÿ8–í²°€0
+M
+java:S2629)"7Use the built-in formatting to construct this argument.(æ¶”
+M
+java:S26292"7Use the built-in formatting to construct this argument.(Ãü¿…
+M
+java:S2629;"7Use the built-in formatting to construct this argument.(´´ì
+M
+java:S2629C"7Use the built-in formatting to construct this argument.(å«Ö•
+M
+java:S2629J"7Use the built-in formatting to construct this argument.( Ãµ’

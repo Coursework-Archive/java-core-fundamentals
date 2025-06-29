@@ -1,0 +1,16 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÄàŸ­8Ù¿ìÔ€0
+b	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ï‰Î¾8Ú¿ìÔ€0
+b	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(÷ÙÎ8Û¿ìÔ€0
+m
+java:S3457%"KFormat specifiers or lambda should be used instead of string concatenation.(ü‹ïÍûÿÿÿÿ8€ôŒ›0
+h
+java:S3457-"KFormat specifiers or lambda should be used instead of string concatenation.(·Û†º8‚ôŒ›0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8†ôŒ›0
+W
+java:S1128":Remove this unused import 'java.util.logging.FileHandler'.(—­—å8‡ôŒ›0
+Y
+java:S2629%"7Use the built-in formatting to construct this argument.(ü‹ïÍûÿÿÿÿ8ˆôŒ›0
+T
+java:S2629-"7Use the built-in formatting to construct this argument.(·Û†º8‰ôŒ›0

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-08T20:11:14.971673Z</date>
+  <millis>1649448674971</millis>
+  <nanos>673000</nanos>
+  <sequence>0</sequence>
+  <logger>carvedrockfitness.user.UserService</logger>
+  <level>INFO</level>
+  <class>carvedrockfitness.user.UserService</class>
+  <method>addUser</method>
+  <thread>1</thread>
+  <message>Adding user, with user details: carvedrockfitness.user.User - name: Maaike, id: 4, email: maaike@maaike.nl</message>
+</record>
+<record>
+  <date>2022-04-08T20:11:14.993264Z</date>
+  <millis>1649448674993</millis>
+  <nanos>264000</nanos>
+  <sequence>1</sequence>
+  <logger>carvedrockfitness.order.OrderService</logger>
+  <level>WARNING</level>
+  <class>carvedrockfitness.order.OrderService</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Trying to place an order by a pending user, order details: carvedrockfitness.order.Order@7530d0a</message>
+</record>
+</log>

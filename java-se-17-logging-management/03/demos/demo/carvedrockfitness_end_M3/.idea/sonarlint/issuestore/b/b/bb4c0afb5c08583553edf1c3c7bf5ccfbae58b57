@@ -1,0 +1,12 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÄàŸ­
+[	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ï‰Î¾
+[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(÷ÙÎ
+f
+java:S3457#"KFormat specifiers or lambda should be used instead of string concatenation.(ü‹ïÍûÿÿÿÿ
+a
+java:S3457+"KFormat specifiers or lambda should be used instead of string concatenation.(·Û†º
+R
+java:S2629#"7Use the built-in formatting to construct this argument.(ü‹ïÍûÿÿÿÿ
+M
+java:S2629+"7Use the built-in formatting to construct this argument.(·Û†º

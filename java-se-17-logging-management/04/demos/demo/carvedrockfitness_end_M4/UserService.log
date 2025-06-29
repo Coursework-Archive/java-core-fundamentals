@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-08T19:56:53.538602Z</date>
+  <millis>1649447813538</millis>
+  <nanos>602000</nanos>
+  <sequence>0</sequence>
+  <logger>carvedrockfitness.user.UserService</logger>
+  <level>INFO</level>
+  <class>carvedrockfitness.user.UserService</class>
+  <method>addUser</method>
+  <thread>1</thread>
+  <message>Adding user, with user details: carvedrockfitness.user.User - name: Maaike, id: 4, email: maaike@maaike.nl</message>
+</record>
+</log>

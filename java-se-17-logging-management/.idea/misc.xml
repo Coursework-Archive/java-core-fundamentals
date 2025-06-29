@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02/demos/demo/carvedrockfitness_basic_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/02/demos/demo/carvedrockfitness_without_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/demo/carvedrockfitness_end_M3/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/demo/carvedrockfitness_beginning_M3/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/demo/carvedrockfitness_end_M4/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/demo/carvedrockfitness_beginning_M4/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/best-practices/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

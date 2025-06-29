@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-08T19:56:53.550619Z</date>
+  <millis>1649447813550</millis>
+  <nanos>619000</nanos>
+  <sequence>2</sequence>
+  <logger>carvedrockfitness.order.OrderService</logger>
+  <level>WARNING</level>
+  <class>carvedrockfitness.order.OrderService</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>Trying to place an order by a pending user, order details: carvedrockfitness.order.Order@506e1b77</message>
+</record>
+</log>

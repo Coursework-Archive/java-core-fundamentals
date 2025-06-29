@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05/demos/best-practices/best-practices.iml" filepath="$PROJECT_DIR$/05/demos/best-practices/best-practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/demo/carvedrockfitness_basic_logging/java-core-libraries-log-system.iml" filepath="$PROJECT_DIR$/02/demos/demo/carvedrockfitness_basic_logging/java-core-libraries-log-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/demo/carvedrockfitness_without_logging/java-core-libraries-log-system (1).iml" filepath="$PROJECT_DIR$/02/demos/demo/carvedrockfitness_without_logging/java-core-libraries-log-system (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/demo/carvedrockfitness_end_M3/java-core-libraries-log-system (2).iml" filepath="$PROJECT_DIR$/03/demos/demo/carvedrockfitness_end_M3/java-core-libraries-log-system (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/demo/carvedrockfitness_beginning_M3/java-core-libraries-log-system (3).iml" filepath="$PROJECT_DIR$/03/demos/demo/carvedrockfitness_beginning_M3/java-core-libraries-log-system (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/demo/carvedrockfitness_end_M4/java-core-libraries-log-system (4).iml" filepath="$PROJECT_DIR$/04/demos/demo/carvedrockfitness_end_M4/java-core-libraries-log-system (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/demo/carvedrockfitness_beginning_M4/java-core-libraries-log-system (5).iml" filepath="$PROJECT_DIR$/04/demos/demo/carvedrockfitness_beginning_M4/java-core-libraries-log-system (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-se-17-logging-management.iml" filepath="$PROJECT_DIR$/.idea/java-se-17-logging-management.iml" />
+    </modules>
+  </component>
+</project>

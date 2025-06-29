@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-core-libraries-log-system" />
+        <module name="java-core-libraries-log-system (1)" />
+        <module name="java-core-libraries-log-system (2)" />
+        <module name="best-practices" />
+        <module name="java-core-libraries-log-system (3)" />
+        <module name="java-core-libraries-log-system (4)" />
+        <module name="java-core-libraries-log-system (5)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="best-practices" target="17" />
+      <module name="java-core-libraries-log-system" target="17" />
+      <module name="java-core-libraries-log-system (1)" target="17" />
+      <module name="java-core-libraries-log-system (2)" target="17" />
+      <module name="java-core-libraries-log-system (3)" target="17" />
+      <module name="java-core-libraries-log-system (4)" target="17" />
+      <module name="java-core-libraries-log-system (5)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-08T19:56:53.549867Z</date>
+  <millis>1649447813549</millis>
+  <nanos>867000</nanos>
+  <sequence>1</sequence>
+  <logger>carvedrockfitness.order.OrderController</logger>
+  <level>FINE</level>
+  <class>carvedrockfitness.order.OrderController</class>
+  <method>addOrder</method>
+  <thread>1</thread>
+  <message>At the endpoint order, with order details: carvedrockfitness.order.Order@506e1b77</message>
+</record>
+</log>
