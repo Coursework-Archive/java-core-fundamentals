@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01/demos/Selenium-4-Fundamentals-starter/Selenium-Fundamentals.iml" filepath="$PROJECT_DIR$/01/demos/Selenium-4-Fundamentals-starter/Selenium-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/demos/Selenium-Fundamentals-completed/Selenium-Fundamentals (1).iml" filepath="$PROJECT_DIR$/01/demos/Selenium-Fundamentals-completed/Selenium-Fundamentals (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium-4-java-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/selenium-4-java-fundamentals.iml" />
+    </modules>
+  </component>
+</project>
