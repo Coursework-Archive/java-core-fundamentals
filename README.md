@@ -13,3 +13,6 @@ This repo contains core Java programming coursework, from collection frameworks 
 - Collections, exceptions, I/O
 - JDBC and relational DB interfacing
 - Logging and observability
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
